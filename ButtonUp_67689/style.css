@@ -1,0 +1,40 @@
+
+.Button{
+    width: 120px;
+    height: 27px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-right-radius:25px;
+    border-bottom-left-radius:25px; 
+    border: lightgreen;
+    color: rgb(4, 138, 124);
+    border: 2px solid rgb(4, 138, 124);
+    font-weight: 500;
+    margin: 0 auto;
+    padding: 5px;
+    display: inline-block;
+}
+.nobull{
+    list-style-type: none;
+    display:inline-block;
+    
+}
+.lastb {
+    width: 200px;
+    height: 33px;
+    background-color: rgb(61, 122, 214);
+    color: white;
+    box-shadow: 10px 5px 5px black;
+}
+.plus {
+    border-radius: 50%;
+    background-color: rgb(31, 245, 209);
+    color: white;
+    padding: 10px;
+    font-size: 15t;
+    border:rgb(31, 245, 209) ;
+    
+}
+
+
+
